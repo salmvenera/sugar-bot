@@ -6,7 +6,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMar
 from aiogram.utils import executor
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "7865762532:AAH2-XQ_cMREvUYT8dfNCRkG5uak7w1p8Jo"
 ADMIN_ID = 123456789  # Замени на свой Telegram ID
 MATERIAL_TEXT = "📚 Ваш ежедневный материал: [полезный контент]"
 POLL_QUESTION = "Как вам сегодняшний материал?"
