@@ -1,3 +1,4 @@
-aiogram==2.25.1  # Стабильная версия вместо 3.0.0 # Для Telegram бота
-apscheduler==3.9.1  # Для планирования задач
-python-dotenv==0.19.0   # Для работы с .env
+aiogram==2.25.1
+apscheduler==3.9.1
+python-dotenv==0.19.0
+psycopg2-binary==2.9.5
