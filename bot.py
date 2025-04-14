@@ -18,8 +18,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Конфигурация бота
-BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
-ADMIN_ID = os.getenv('TELEGRAM_ADMIN_ID')  # ID администратора для статистики
+BOT_TOKEN = os.getenv('7865762532:AAH2-XQ_cMREvUYT8dfNCRkG5uak7w1p8Jo')
+ADMIN_ID = os.getenv('316831993')  # ID администратора для статистики
 
 # Инициализация бота и диспетчера
 bot = Bot(token=BOT_TOKEN)
